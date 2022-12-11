@@ -1,1 +1,0 @@
-# ernur-burshak.github.io
