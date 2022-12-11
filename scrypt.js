@@ -1,0 +1,1 @@
+<input type = “button” value=”Басыңыз” onClick=”alert”(‘Рахмет’)”/>
